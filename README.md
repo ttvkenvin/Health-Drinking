@@ -1,4 +1,4 @@
-![image](https://github.com/ttvkenvin/Health-Drinking/blob/master/icon-60%403x.png)
+![image](https://github.com/ttvkenvin/Health-Drinking/blob/master/icon-60%402x.png)
 
 # Health-Drinking
 
