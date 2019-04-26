@@ -1,6 +1,6 @@
 ![image](https://github.com/ttvkenvin/Health-Drinking/blob/master/icon-60%402x.png)
 
-# Health-Drinking
+# Drink Sulchedule
 
 For drinking applications, drinking too much is not good for your health.
 
